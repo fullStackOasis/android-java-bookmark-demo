@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BookmarkDemo</string>
+    <string name="tv_hello">Hello World!</string>
 </resources>
